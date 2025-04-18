@@ -1,0 +1,9 @@
+withzip
+withoutzip
+venv
+csvs
+*.csv
+*.json
+*.png
+rough.py
+
